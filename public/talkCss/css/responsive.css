@@ -1,0 +1,555 @@
+
+@media only screen and (min-width: 1169px) {
+.container {
+    padding-left: 0;
+    padding-right: 0;
+}
+
+}
+@media only screen and (min-width: 1920px) {
+
+.container {
+    padding-left: 0;
+    padding-right: 0;
+}
+#promo::before {
+  content: '';
+  width: 62%;
+  height: 100%;
+  position: absolute;
+  background-color: #34d2ee ;
+  background-position-x: 0%;
+  background-position-y: 0%;
+  background-size: auto auto;
+  background-size: cover;
+  background-position:  left;
+  left: 0;
+  z-index: 2;
+}
+#promo::after {
+  content: '';
+  width: 38%;
+  height: 100%;
+  position: absolute;
+  background-color: #f72424;
+  right: 0;
+  top: 0;
+  z-index: -1;
+  padding-left: 100px;
+}
+}
+@media only screen and (max-width: 1024px) {
+
+/* start banner section*/
+.banner-text h1 {
+    font-size: 34px;
+}
+/* End banner section*/
+
+/* start promo css*/
+#promo .promo-title {
+  float: left;
+  width: 80%;
+}
+#promo .promo-title h4 {
+  float: left;
+  font-size: 24px;
+  padding: 20px 0 0 0px;
+}
+#promo .promo-title h2 {
+  float: left;
+  font-size: 20px;
+}
+#promo .right-sec {
+  padding: 44px 0 0 0px;
+}
+#promo .phn-info .phn-num {
+  float: left;
+  width: 87%;
+}
+#promo .phn-info .phn-num h2 {
+  font-size: 22px;
+  padding: 12px 0 0 20px;
+  margin: 0;
+}
+
+
+/* end*/
+
+/* start inspection css*/
+.inspection-block .overlay {
+  padding: 43px 28px 38px;
+}
+.inspection-block .overlay:hover {
+  padding: 43px 28px 38px;
+}
+.inspection-block .overlay-red {
+  padding: 43px 28px 38px;
+}
+/* end*/
+
+/* start our value section css*/
+
+#col-features-area .col-feature-content {
+    width: 243px;
+    float: left;
+}
+#col-features-area .col-feature-content.pd-left{
+  padding-left: 30px;
+}
+#col-features-area .quote-bx {
+    width: 302px;
+    height: 596px;
+    background-color: #34d2ee;
+    border-radius: 170px;
+    margin: 0 auto 0 3.5%;
+}
+/* end*/
+
+/*start newsletter*/
+#news-letter .subscribe-form input[type="text"]{
+  width: 300px;
+}
+/*end*/
+
+/*footer css*/
+footer .sec-pad {
+    padding: 100px 0 72px;
+}
+footer .phn-num {
+  font-size: 30px;
+  color: #FFF;
+  position: absolute;
+  z-index: 1;
+  bottom: 20px;
+  left: 64px;
+}
+/*end*/
+
+@media (min-width: 768px) and (max-width: 991px) {
+.wd-50{
+    width: 100%;
+}
+.sec-pad {
+    padding: 50px 0;
+}
+.slide-text > .list {
+    margin-bottom: 5px;
+}
+.banner-text h1 {
+    font-size: 24px;
+}
+/* Start promo section*/
+
+
+#promo::before {
+  content: '';
+  width: 100%;
+  height: 100%;
+}
+#promo::after{
+  display: none;
+}
+#promo .promo-title {
+  float: left;
+  width: 82%;
+}
+#promo .right-sec {
+  padding: 0px 0 22px 0px;
+}
+#promo .icon {
+  position: relative;
+  right: 34px;
+  margin: auto;
+  top: 22px;
+}
+#promo .phn-info h4 {
+  color: #FFF;
+  padding: 0 0 0 26px;
+}
+#promo .phn-info h2 {
+  font-size: 18px;
+  padding: 12px 0 0 40px;
+}
+#promo .phn-info span {
+  left: -19px;
+}
+/* End promo section*/
+
+/* start service css*/
+#services {
+    padding: 50px 0 0;
+}
+.single-service-col .ser-nme{
+  font-size: 16px;
+}
+/* end*/
+#about {
+    padding: 50px 0;
+}
+.video-bx {
+    padding: 50px 0 0;
+}
+
+/* start our value section css*/
+#col-features-area {
+    padding: 50px 0;
+}
+#col-features-area .mr-top{
+  margin-top: 60px;
+}
+#col-features-area .col-feature-content {
+  width: 100%;
+  float: left;
+  text-align: center;
+  padding-top: 20px;
+}
+#col-features-area .col-feature-content h3{
+  margin-top: 0;
+  text-align: center;
+}
+#col-features-area .col-feature-content.pd-right {
+  padding-right: 0px;
+}
+#col-features-area .feature-icon-holder{
+  margin: auto;
+  display: table;
+  float: none;
+}
+#col-features-area .pull-right-icon{
+  float: none !important;
+}
+#col-features-area .quote-bx {
+  width: 302px;
+  height: 596px;
+  background-color: #34d2ee;
+  border-radius: 170px;
+  margin: auto;
+}
+/* end*/
+#faq-section.sec-pad{
+  padding: 0 0 50px 0;
+}
+.panel-group {
+   
+    margin: auto;
+    width: 100%;
+}
+/*start newsletter css*/
+#news-letter .subscribe-form input[type="text"] {
+    width: 205px;
+}
+#news-letter p {
+  font-size: 18px;
+  padding-left: 15px;
+}
+/*end*/
+#blog {
+    padding: 50px 0 ;
+}
+/* footer css*/
+footer .phn-num {
+  font-size: 30px;
+  color: #FFF;
+  position: absolute;
+  z-index: 1;
+  bottom: 20px;
+  left: 94px;
+}
+.social-links-footer{
+  margin-bottom: 30px;
+}
+/*end*/
+}
+@media only screen and (min-width: 800px) and (max-width: 960px) {
+  #promo .right-sec {
+    padding: 0px 0 22px 40px;
+}
+}
+
+@media only screen and (min-width: 320px) and (max-width: 736px) {
+
+h1{
+    font-size: 24px;
+}
+.wrap-sticky nav.navbar.bootsnav.sticked{
+    position: fixed;
+}
+.section-title h1 {
+    font-size: 24px;
+}
+.wd-50 {
+    width: 100%;
+    margin: auto;
+}
+.sec-pad{
+    padding: 50px 0;
+}
+/* Start Banner section */
+#banner {
+    width: 100%;
+    height: 100%;
+}
+.slide-text {
+  display: none;
+}
+/* start promo css*/
+.no-pad {
+    padding: 0 15px;
+}
+#promo{
+  height: auto;
+}
+#promo .pm-man{
+  display: none;
+}
+#promo::before {
+  content: '';
+  width: 100%;
+}
+#promo::after {
+  content: '';
+  width: 100%;
+}
+#promo .promo-title {
+  float: left;
+  width: auto;
+}
+#promo .promo-title h4 {
+    float: left;
+    font-size: 24px;
+    padding: 20px 0 0 0px;
+    text-align: center;
+}
+#promo .right-sec {
+  padding: 0px 0 22px 0px;
+  width: 100%;
+}
+#promo .phn-info {
+  float: none;
+  width: 100%;
+}
+#promo h5.heading {
+    text-align: center;
+}
+#promo .icon {
+  position: inherit;
+  right: 25px;
+  margin: auto;
+  top: 22px;
+}
+
+#promo .phn-info .phn-num h2 {
+  font-size: 28px;
+  padding: 12px 0 0 20px;
+  margin: 0;
+  color: #000;
+  text-align: center;
+}
+#promo .phn-info .phn-num span {
+  color: #FFF;
+}
+#services {
+  padding: 50px 0 0;
+}
+#about {
+    padding: 50px 0;
+}
+.video-bx {
+    padding: 50px 0 0;
+}
+/* end*/
+#col-features-area {
+  padding: 50px 0 0;
+}
+.panel-group {
+  margin-bottom: 0px;
+  margin: auto;
+  width: 100%;
+}
+/* start service css*/
+.single-service-col {
+  margin-bottom: 20px;
+}
+/* end*/
+
+/* start our value section css*/
+#col-features-area .pull-right-icon {
+    float: none;
+}
+#col-features-area .feature-icon-holder {
+  margin: auto;
+  display: table;
+  float: none;
+}
+#col-features-area .col-feature-content {
+    width: 100%;
+    float: left;
+}
+#col-features-area .col-feature-content h3{
+  text-align: center;
+}
+#col-features-area .col-feature-content p{
+  text-align: center;
+}
+#col-features-area .quote-bx {
+  width: 100%;
+  height: 596px;
+  background-color: #34d2ee;
+  border-radius: 170px;
+  margin: auto;
+  margin-bottom: 70px;
+}
+#col-features-area .quote-bx .quote-text{
+  width: 100%;
+}
+#col-features-area .pad-l {
+  padding-left: 15px;
+}
+/* end*/
+
+/* start testimonial section css*/
+#testimonials .instructor-img {
+  float: none;
+  margin: auto;
+}
+#testimonials .sec-pad {
+    padding: 50px 0 40px;
+}
+#testimonials .text-box {
+  padding: 0;
+  margin-top: 20px;
+  float: left;
+}
+#testimonials .text-box p {
+  line-height: 24px;
+  text-align: center;
+}
+#testimonials .name h3{
+  text-align: center;
+}
+#testimonials .name{
+  text-align: center;
+}
+/*end*/
+
+/*start newsletter start*/
+#news-letter {
+  background-color: #4472b7;
+  width: 100%;
+  padding: 14px 0 40px;
+}
+#news-letter .email-icon{
+  text-align: center;
+}
+#news-letter p {
+  text-align: center;
+}
+#news-letter .subscribe-form .subscribe-button{
+  padding: 11px 16px;
+}
+#news-letter .subscribe-form .subscribe-button:hover{
+  padding: 11px 16px;
+}
+/*end*/
+#blog {
+    padding: 50px 0 50px;
+}
+#blog .blog-main-holder {
+  width: 100%;
+  margin-bottom: 20px;
+}
+#blog .single-blog-post .img-holder img{
+  width: 100%;
+}
+footer .phn-num {
+    font-size: 30px;
+    color: #FFF;
+    position: absolute;
+    z-index: 1;
+    bottom: 25px;
+    left: 97px;
+    text-align: center;
+}
+/* footer css*/
+
+.copywrite{
+  text-align: center;
+  float: none;
+}
+.create-by p{
+  text-align: center;
+  padding: 0;
+}
+/*end*/
+
+.page-title h2 {
+  position: relative;
+  font-size: 35px;
+}
+#service-page-second .service-container {
+  width: 100%;
+  padding: 80px 0 0px;
+}
+.sidebar-widget-items.pl20 {
+  padding: 0px;
+}
+.sidebar-widget-items {
+  width: 100%;
+  border: none;
+  margin-top: 50px;
+}
+}
+
+@media only screen and (max-width: 320px) {
+.inspection-block .title h2{
+    font-size: 18px;
+}
+#promo .right-sec {
+  padding: 0px 0 22px 0px;
+   width: 100%;
+}
+#promo .icon {
+  display: none;
+}
+#promo .phn-info h2 {
+    font-size: 18px;
+    padding: 0 0 0 93px;
+    text-align: center;
+}
+#promo .phn-info h4{
+  text-align: center;
+}
+#promo .phn-info span {
+    left: 30px;
+    text-align: center;
+}
+/*start newsletter css*/
+#news-letter .subscribe-form input[type="text"] {
+    width: 150px;
+}
+/*end*/
+
+/* footer css*/
+footer .phn-num {
+  font-size: 30px;
+  color: #FFF;
+  position: absolute;
+  z-index: 1;
+  bottom: 20px;
+  left: 70px;
+}
+/*end*/
+}
+
+
+/* iPhone 6 landscape*/
+@media only screen and (min-width: 568px) and (max-width: 736px){
+
+footer .phn-num {
+  bottom: 56px !important;
+  left: 227px !important;
+
+}
+}
+

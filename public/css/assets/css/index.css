@@ -1,0 +1,1132 @@
+/*=================================================================
+  Dashboard Css
+==================================================================*/
+
+@media screen and (min-width: 1440px){
+
+  .__dasepl {
+    margin: 5% 0 0 65px;
+    width: 870px;
+  }
+
+  .__dasepl span:nth-child(1) {
+    margin-left: 23%;
+  }
+
+}
+
+@media screen and (max-width: 1220px){
+  .__dasepl {
+    margin: 5% 0 0 72px;
+    width: 865px;
+  }
+
+  .__dasepl span:nth-child(1) {
+    margin-left: 22%;
+  }
+
+  .__pa {
+    margin: 45px 8px 9px 70px;
+    width: 869px;
+  }
+
+  .__addag {
+    margin: 45px 8px 9px 70px;
+    width: 869px;
+  }
+
+  .__dasempl {
+    margin: 45px 8px 9px 76px;
+    width: 865px;
+  }
+
+  .bigers {
+    width: 58%;
+    margin-top: 0%;
+    margin-left: 227px;
+  }
+
+  .__tabov {
+    margin: 5% 0 0 89px;
+    width: 866px;
+  }
+
+  .__profbtn {
+    width: 165px;
+  }
+
+  .__prof1btn {
+    width: 165px;
+  }
+
+  .__bidsov {
+    margin: 2% 7%;
+    width: 911px;
+  }
+
+  .__taladownimg img {
+    margin-left: -13px;
+  }
+
+
+}
+
+@media screen and (max-width: 1024px){
+  .leftbar {
+  padding-top: 10%;
+  }
+  .leftbart {
+  padding-top: 4%;
+  width: 205px;
+  }
+
+  .__dasepl span:nth-child(1) {
+    padding: 14px 29px;
+    margin-left: 5%;
+  }
+
+  .__dasepl {
+    margin: 5% 0px 0px 87px;
+    /*width: 805px;*/
+    width: 727px;
+  }
+
+  .__dasepl1 {
+    margin: 45px 8px 9px 92px;
+    width: 723px;
+  }
+
+  .__dascard {
+    width: 100%;
+  }
+
+  .__dasempl {
+      margin: 45px 0px 9px 91px;
+    width: 707px;
+  }
+
+  .__pa {
+    margin: 45px 8px 9px 89px;
+    width: 726px;
+  }
+  .__addag {
+    margin: 45px 8px 9px 89px;
+    width: 726px;
+  }
+
+  .bigers {
+    width: 67%;
+    margin-top: 3%;
+    margin-left: 139px;
+  }
+
+  .__tabov {
+    margin: 5% 0 0 82px;
+    width: 721px;
+  }
+
+  .__trvto {
+    padding: 10px 20px 3px;
+  }
+
+  .__nav-pills li a {
+    padding: 20px 10px 9px;
+  }
+
+  .__profbtn {
+    font-family: AvenirLTStd-Medium;
+    width: 142px;
+  }
+  .__prof1btn {
+    font-family: AvenirLTStd-Medium;
+    width: 142px;
+  }
+
+  .__upl {
+    padding: 40px 66px;
+  }
+
+
+}
+
+@media screen and (max-width: 992px) {
+  
+  
+  .__dasepl {
+      margin: 5% 0px 0px 87px;
+      width: 712px;
+  }
+
+  .__pa {
+    margin: 45px 8px 9px 89px;
+    width: 709px;
+  }
+  .__addag {
+    margin: 45px 8px 9px 89px;
+    width: 709px;
+  }
+
+  .__dasepl span:nth-child(1) {
+    margin-left: 3%;
+  }
+
+  .__taladownimg img {
+    margin-left: -16px;
+  }
+
+}
+
+@media screen and (max-width: 800px){
+  .leftbar{
+    transform: translate(-300px);
+    top: 0%;
+  }
+
+  .leftbart{
+    transform: translate(-300px);
+    top: 0%;
+  }
+  #openSidebar{
+    display: block !important;
+    cursor: pointer !important;
+    margin-top: 17px;
+  }
+  img#closebtn {
+     display: block;
+     top: 3%;
+    left: 5%;
+  }
+
+  .__dast {
+    margin-top: 0%;
+  }
+
+
+  .__dasepl {
+    margin: 7% 0 0 0;
+    width: 100%;
+  }
+
+  .__dasepl1 {
+    margin: 45px 8px 9px 0;
+    width: 100%;
+  }
+
+  .__dascard {
+    width: 100%;
+  }
+
+  .__dashnav{
+    z-index: 1;
+  }
+
+  .__dasepl span:nth-child(1) {
+    padding: 14px 29px;
+    margin-left: 24%;
+  }
+
+  .__dascard p:nth-child(2) {
+    font-size: 14px;
+  }
+
+  .__dascard p:nth-child(3) {
+    font-size: 20px;
+  }
+
+  .__dasempl {
+    margin: 12px 8px 9px 0px;
+    width: 736px;
+  }
+
+  .__pa {
+    margin: 45px 8px 9px 0px;
+    width: 100%;
+  }
+  .__addag {
+    margin: 45px 8px 9px 0px;
+    width: 100%;
+  }
+
+  .bigers {
+    width: 66%;
+    margin-top: 0%;
+    margin-left: 148px;
+  }
+
+  .__tabov {
+    margin: 7% 0 0 0px;
+    width: 100%;
+  }
+
+  .__trvto {
+    padding: 10px 24px 3px;
+  }
+
+  .__nav-pills li a {
+    padding: 20px 5px 9px;
+  }
+
+  .__profbtn {
+    width: 140px;
+  }
+
+  .__prof1btn {
+    width: 140px;
+  }
+
+  .__travtbids {
+    padding: 5px 1px;
+  }
+
+  .__pfin {
+    padding: 33px 30px;
+  }
+
+
+}
+
+
+@media screen and (max-width: 568px) {
+
+    .__dast{
+    margin-top: 10%;
+  }
+
+  .__dashnav{
+    z-index: 1;
+    height: 56px;
+  }
+  
+  .biger{
+    width: 80% ;
+    transform: translate(0px) !important;
+    z-index:1  !important;
+    
+  }
+
+  .leftbar{
+    transform: translate(-1000px);
+    top: 0%;
+  }
+
+  .leftbart{
+    transform: translate(-1000px);
+    top: 0%;
+  }
+  #openSidebar{
+    display: block !important;
+    cursor: pointer !important;
+  }
+
+  /*for image close*/
+  img#closebtn {
+     display: block;
+     top: 3%;
+    left: 5%;
+  }
+
+  i#closebtn {
+     display: block;
+     top: 2%;
+    left: 5%;
+  }
+
+  #openSidebar {
+    margin-top: 2px;
+  }
+
+  .maianer {
+      padding: 10px 20px;
+  }
+  .mr-125 { right:125px !important; }
+
+
+  /*right slider side*/
+  .bigers {
+    width: 82%;
+    margin-top: 0%;
+    margin-left: 57px;
+  }
+
+  img#rightclosebtns {
+    margin-left: 233px;
+  }
+
+/*end*/
+
+  .__profimg {
+    margin-left: 77px;
+  }
+
+
+  .__dasepl {
+    width: 100%;
+    margin: 12% 0 0 !important;
+  }
+
+  .__dasepl1 {
+    margin: 0;
+    width: 100%;
+  }
+
+  .__dascard {
+    width: 100%;
+    margin-top: 10px;
+  }
+
+  .__dasepl span:nth-child(1) {
+    padding: 0;
+    margin-left: 0;
+  }
+
+  .__dasepl span:nth-child(3) {
+    padding: 4px;
+  }
+
+  .__dassc {
+    margin-bottom: 10px;
+  }
+
+  /*.__logo {
+    width: 80px;
+    margin-top: -10px;
+    margin-left: 48px;
+  }*/
+
+  .navbar-toggle {
+    /* border: 2px solid #FFFFFF; */
+    color: #ffffff;
+    background: #433e59;
+  }
+
+  .__dascard p:nth-child(2) {
+    font-size: 10px;
+    margin-bottom: 0px;
+    padding: 3px 10px;
+  }
+  .__dascard p:nth-child(3) {
+    font-size: 15px;
+    margin-bottom: 0px;
+    padding: 3px 10px 10px;
+  }
+
+  .__pa {
+    margin: 1px 8px 9px 0px;
+    width: 100%;
+  }
+  .__addag {
+    margin: 1px 8px 9px 0px;
+    width: 100%;
+  }
+
+  .__pro1 {
+    font-size: 12px;
+  }
+
+  .__pro2 {
+    font-size: 12px;
+  }
+
+  .__pfin {
+    padding: 20px 10px;
+  }
+
+  .__pfpa {
+    padding: 10px 27px;
+  }
+
+  .__prof {
+    padding: 12px 11px;
+  }
+
+  .__setp {
+    border: 1px solid #e6e6e6;
+    text-align: center;
+    padding: 20px 9px;
+  }
+
+  .__tabov {
+    margin: 17% 0 0 0px;
+    width: 100%;
+  }
+
+  .__trvto {
+    padding: 10px 13px 3px;
+  }
+
+  .__nav-pills li a {
+    padding: 20px 2px 9px;
+  }
+
+  .__tab {
+    padding: 15px 9px;
+  }
+
+  .__upl {
+    padding: 25px 15px;
+  }
+
+  .__it .btn-new, .__it .btn-next {
+    margin: 5px 0px;
+    font-size: 16px;
+    width: 123px;
+  }
+
+  .__accordion {
+    padding: 18px 20px;
+  }
+
+  .panel {
+    padding: 0 18px;
+  }
+
+  .__profbtn {
+    width: 120px;
+  }
+  .__prof1btn {
+    width: 120px;
+  }
+
+  .__proft {
+    border-right: none;
+  }
+
+  .__prp{
+    text-align: center;
+  }
+
+  .__prp p:nth-child(1) {
+    font-size: 11px;
+  }
+
+  .__prp p:nth-child(2) {
+    font-size: 11px;
+  }
+
+  .__prp p:nth-child(3) {
+    font-size: 14px;
+  }
+  .__prp p:nth-child(4) {
+    font-size: 12px;
+  }
+
+  
+
+  .__bidq {
+    margin-top: -5px;
+    margin-left: -6px;
+  }
+
+  .__bids img {
+    width: 30px;
+    height: 32px;
+    margin-top: -35px;
+  }
+
+  .__bids7 p:nth-child(1) {
+    font-size: 12px;
+  }
+
+  .__bids7 p:nth-child(2) {
+    font-size: 11px;
+  }
+  .__bidsp p {
+    font-size: 11px;
+  }
+
+
+
+}
+
+
+/*=================================================================
+  Dashboard Css end
+==================================================================*/
+
+
+
+
+
+
+
+
+/*=================================================================
+  @media screen 1440px
+==================================================================*/
+
+
+@media screen and (min-width: 1440px){
+   
+  .carousel-indicators {
+    left: 50% !important;
+    bottom: 100px;
+  }
+
+  .__item img {
+    height: 100% !important;
+    width: 100%;
+  }
+
+  .__donatecard {
+    padding: 20px;
+  }
+
+
+}
+
+
+@media screen and (max-width: 1330px){
+
+  .__aluminewshis {
+    margin-left: -321px !important;
+  }
+
+}
+
+/*=================================================================
+  @media screen 1199px
+==================================================================*/
+
+
+@media screen and (max-width: 1199px){
+   
+  .carousel-indicators {
+    left: 50% !important;
+    bottom: 100px;
+  }
+
+  .__aluminewshis {
+    margin-left: -260px;
+  }
+
+}
+
+
+/*=================================================================
+  @media screen 1220px
+==================================================================*/
+
+
+@media screen and (max-width: 1220px){
+  
+ .carousel-indicators {
+    left: 50% !important;
+    bottom: 100px;
+  }
+
+  .__brid {
+    margin-top: 12%;
+  }
+
+  .__item img {
+    height: 100% !important;
+    width: 100%;
+  }
+
+  .__donatecard {
+    padding: 20px;
+  }
+
+  .__memeber {
+    margin-left: 21%;
+  }
+
+  .__memeber p {
+    padding: 0 10px;
+  }
+
+  .__aluminewshis {
+    margin-left: -321px !important;
+  }
+
+
+}
+
+
+/*=================================================================
+  @media screen 1024px
+==================================================================*/
+
+
+@media screen and (max-width: 1024px){
+
+  .__brid {
+    margin-top: 14%;
+    font-size: 37px;
+  }
+
+  .__appd {
+    width: 100%;
+    margin-top: -280px;
+  }
+
+  .__nav li a {
+    padding-right: 4px;
+    padding-left:4px;
+  }
+
+  .__map {
+      width: 100%;
+      height: 490px;
+  }
+  
+  .__foter {
+    padding: 39px 93px;
+  }
+  .__camp img {
+    width: 100%;
+    height: 210px;
+  }
+
+  .carousel-indicators {
+    left: 50% !important;
+    bottom: 100px;
+  }
+
+  .__item img {
+    height: 500px !important;
+    width: 100%;
+  }
+
+  .__inbg {
+    margin-left: 43px;
+  }
+
+  .__card img {
+    width: 100%;
+    height: 150px;
+  }
+
+  .__danateimg img {
+    width: 100%;
+    height: 350px;
+  }
+
+  .__donatecard {
+    padding: 2px;
+  }
+
+  .__donamobtn {
+    width: 100%;
+    letter-spacing: 0.5px;
+  }
+
+  .__donatecard {
+    padding: 20px;
+  }
+
+  .__memeber {
+    margin-top: 18%;
+  }
+
+  .__memeber p {
+    padding: 0;
+    text-align: center;
+  }
+
+  .__talk {
+    margin-left: 0px;
+    margin-top: 42%;
+  }
+
+  .__talk a {
+    padding: 15px 10px;
+    font-size: 14px;
+  }
+
+  .__overlay {
+    width: 78.2%;
+    font-size: 34px;
+  }
+
+  .__aluminewshis {
+    margin-left: -269px !important;
+  }
+  
+
+}
+
+
+/*=================================================================
+  @media screen 992px
+==================================================================*/
+
+
+@media screen and (max-width: 992px){
+  .__donamobtn {
+    width: 100%;
+    letter-spacing: 0.5px;
+  }
+
+  .fancybox img {
+    max-width: 100%;
+    height: 170px;
+  }
+
+  .__donatecard {
+    padding: 20px;
+  }
+
+  
+
+
+}
+
+
+/*=================================================================
+  @media screen 800px
+==================================================================*/
+
+@media screen and (max-width: 800px){
+
+  .__nav li a {
+    padding-right: 4px;
+    padding-left:4px;
+  }
+
+
+  .__brid {
+    font-size: 33px;
+    margin-top: 9%;
+  }
+
+  .__appd {
+    width: 100%;
+    margin-top: -225px;
+  }
+
+  .__spaf {
+    font-size: 22px;
+  }
+  .__aboup {
+    font-size: 14px;
+  }
+  .__dona {
+    line-height: 1.4;
+  }
+
+
+
+
+  .__fh {
+    font-size: 15px;
+  }
+
+  .__foter {
+    padding: 39px 20px;
+    margin-top: 3%;
+  }
+
+
+  .__fod {
+    padding: 0 50px;
+  }
+
+
+
+  .__memeber {
+    margin-top: 0%;
+    margin-left: 16%;
+  }
+
+  .__memlogo {
+    width: 60px;
+  }
+
+  .__talgbg {
+    height: 100vh;
+  }
+
+  .__memeber h1 {
+    font-size: 28px;
+  }
+
+  .__memeber p {
+    padding: 0;
+    text-align: center;
+  }
+
+  .__talk {
+    margin-left: -25px;
+    margin-top: 26%;
+  }
+
+  .__talk a {
+    padding: 12px 10px;
+    font-size: 11px;
+ }
+
+ .__overlay {
+    width: 72.2%;
+    font-size: 27px;
+  }
+
+  .__map {
+      width: 100%;
+      height: 490px;
+  }
+
+  .__alumi {
+    font-size: 25px;
+  }
+
+  .__aluminewshis {
+    margin-left: -202px !important;
+  }
+
+  .__newsmini p:nth-child(2) {
+    font-size: 12px;
+  }
+
+  .__newsmini1 img {
+    width: 161px;
+  }
+
+  .__newsmini1 p:nth-child(2) {
+    font-size: 14px;
+  }
+   
+
+  
+  /*end*/
+	
+}
+
+/*=================================================================
+  @media screen 767px
+==================================================================*/
+
+@media screen and (max-width: 767px){
+
+  .__navbackground {
+    background: #F5A623;
+  }
+
+  .__appd {
+    width: 100%;
+    margin-top: 0;
+  }
+  .__a {
+    margin-left: 0;
+  }
+
+
+  .__item img {
+    height: 100% !important;
+    width: 100%;
+  }
+  .carousel-indicators {
+    left: 50% !important;
+    bottom: 50px;
+  }
+
+  .view {
+    font-size: 16px;
+  }
+
+ .__card img {
+    width: 100%;
+    height: 249px;
+  }
+  .__card p {
+    font-size: 16px;
+  }
+
+  .__danateimg img {
+    width: 100%;
+  }
+
+  .__foter {
+    text-align: center;
+  }
+
+  .__donatecard {
+    padding: 20px;
+  }
+
+
+  .__memeber {
+    margin-top: 6%;
+}
+
+.__memlogo {
+    width: 50px;
+}
+
+.__talgbg {
+    height: 87vh;
+}
+
+.__memeber h1 {
+    font-size: 37px;
+}
+
+
+.__talk {
+    margin-left: 179px;
+    margin-top: 3%;
+}
+
+.__talk a {
+    padding: 12px 10px;
+    font-size: 15px;
+}
+
+.__overlay {
+    width: 90.9%;
+    font-size: 27px;
+}
+
+.__aluminewshis {
+    margin-top: 6px;
+    margin-left: 0;
+  }
+  /*raoatech*/
+}
+
+
+/*=================================================================
+  @media screen 560px
+==================================================================*/
+
+
+  @media screen and (max-width: 560px){
+
+  /*Raoatech*/
+
+
+  .__talkto a:nth-child(1) {
+    padding: 11px 17px;
+    font-size: 13px;
+  }
+
+  .__talkto img {
+    width: 157px;
+    height: 62px;
+  }
+
+  .__brid {
+    font-size: 22px;
+  }
+
+  .__quote {
+    font-size: 14px;
+    width: 100%;
+  }
+
+  .__appd {
+    width: 100%;
+    margin-top: 0;
+  }
+
+  .__spaf {
+    font-size: 17px;
+  }
+  .__a {
+    margin-left: 0;
+  }
+
+  .__aboup {
+    font-size: 14px;
+  }
+
+  .__dona {
+    line-height: 1.2;
+    padding: 17px 15px 13px;
+    margin-top: 0;
+  }
+
+  .__map {
+    width: 100%;
+    height: 100%;
+  }
+
+
+.__navbackground {
+    background: #F5A623;
+}
+
+.carousel {
+    padding-top: 47px;
+}
+
+.__searchform button {
+    padding: 11px 10px;
+}
+
+.__modal-dialog {
+    width: 298px;
+}
+
+.__memeber {
+  margin-top: 9%;
+  margin-left: 0%;
+}
+
+.__memeber h1 {
+  font-size: 24px;
+}
+
+.__memeber p {
+    padding: 0;
+    text-align: center;
+}
+
+.__talk {
+    margin-left: 0px;
+    margin-top: 7%;
+}
+
+
+.__talk a {
+    padding: 10px 10px;
+    margin-top: 10px;
+}
+
+.__talgbg {
+    height: 100%;
+}
+
+.__memlogo {
+    width: 40px;
+}
+
+.__meet-aspirant {
+    font-size: 37px;
+    line-height: 1.02;
+}
+
+.__overlay {
+    width: 78.2%;
+    font-size: 32px;
+    padding: 2px;
+}
+
+.pull-right {
+    float: none !important;
+}
+
+.form-card {
+  margin-top: 0;
+}
+
+.__aluminewshis {
+    margin-left: 0 !important;
+}
+
+
+
+
+
+
+  
+  /*end*/
+
+
+
+  
+
+
+
+}
+
